@@ -1,0 +1,52 @@
+{
+  "allDestinations": [
+    {
+      "nameId": "witches brewing",
+      "location": {
+        "x": -1504,
+        "y": -5387,
+        "z": 500
+      }
+    },
+    {
+      "nameId": "witches gathering",
+      "location": {
+        "x": 4972,
+        "y": -8350,
+        "z": 294
+      }
+    },
+    {
+      "nameId": "smithing station",
+      "location": {
+        "x": -676,
+        "y": -4958,
+        "z": 500
+      }
+    },
+    {
+      "nameId": "smithing resting",
+      "location": {
+        "x": -577,
+        "y": -4522,
+        "z": 564
+      }
+    },
+    {
+      "nameId": "village gate",
+      "location": {
+        "x": -611,
+        "y": -5613,
+        "z": 500
+      }
+    },
+    {
+      "nameId": "mountain foot",
+      "location": {
+        "x": 5669,
+        "y": 1403,
+        "z": 500
+      }
+    }
+  ]
+}

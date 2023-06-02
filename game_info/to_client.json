@@ -1,0 +1,44 @@
+{
+  "stop": true,
+  "agents": [
+    {
+      "name": "Frank",
+      "status": "Practicing a hobby.",
+      "destination": {
+        "nameId": "smithing resting",
+        "location": {
+          "x": -577,
+          "y": -4522,
+          "z": 564
+        }
+      },
+      "conversation": null
+    },
+    {
+      "name": "Bob",
+      "status": "Practicing a hobby.",
+      "destination": {
+        "nameId": "smithing station",
+        "location": {
+          "x": -676,
+          "y": -4958,
+          "z": 500
+        }
+      },
+      "conversation": null
+    },
+    {
+      "name": "Alice",
+      "status": "Going to the market.",
+      "destination": {
+        "nameId": "witches gathering",
+        "location": {
+          "x": 4972,
+          "y": -8350,
+          "z": 294
+        }
+      },
+      "conversation": null
+    }
+  ]
+}
